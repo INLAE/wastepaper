@@ -1,4 +1,5 @@
-### шо тут:
+<img align="left" alt="dogs" width="355px" src="https://happylapper.com/img/dogs.png" />
+
 
 | **Название** | **Описание** |
 | -------------------- | :--------------------- |
