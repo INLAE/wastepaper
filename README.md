@@ -1,4 +1,4 @@
-<img align="left" alt="dogs" width="355px" src="https://happylapper.com/img/dogs.png" />
+<img align="left" alt="dogs" width="300px" src="https://happylapper.com/img/dogs.png" />
 
 
 | **Название** | **Описание** |
