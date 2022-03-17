@@ -9,5 +9,7 @@
 | 4. Чемпионат IEF CUP. [Диплом](https://github.com/IvanAnvi/wastepaper/blob/main/4.%20IEF%20CUP.jpg)|Разобрал универский бизнес-кейс и защитил его решение. Проиграл.
 | 5. Программа дополнительного бизнес образования 5x5. [Сертификат](https://github.com/IvanAnvi/wastepaper/blob/main/5.BusinessEdu%205x5.jpg)|5-недельный интенсив с 5 лекциями, практикой и защитой бизнес проекта.
 | 6. TOP 15% на Чемпионате CUP MOSCOW. [Диплом](https://github.com/IvanAnvi/wastepaper/blob/main/6.%20Cup%20Moscow%202021.pdf)|Чемпионат по решению бизнес-кейсов. Полуфинал. Проиграл.
-| 7. Changellenge >> Cup IT. [СКОРО]()|Чемпионат по решению бизнес-кейса Магнит и P&G инструментами анализа данных: EXCEL, регрессия, Python (Pandas, sklearn). 
+| 7. Oliver Wyman Russia. [БЕЗ диплома]()|Чемпионат по решению бизнес-кейса СберМегаМаркета. Внедрение ESG принципов и стандартов. Проиграл. 
+| 8. HSE Case Club & McKinsey Beyond Business. [БЕЗ диплома]()|Чемпионат по решению бизнес-кейса NovaBank. Стратегия становления ТОП-1 банка для самозанятых. Проиграл. 
+| 9. Changellenge >> Cup IT. [ПОКА ФИНАЛ]()|Чемпионат по решению бизнес-кейса Магнит и P&G инструментами анализа данных: EXCEL, регрессия, Python (Pandas, sklearn). 
 | Волонтёрская [книжка](https://github.com/IvanAnvi/wastepaper/blob/main/Volunteering..pdf)|Езжу в собачий приют, кормлю и выгуливаю. Не обновляю.
