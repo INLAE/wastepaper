@@ -12,5 +12,5 @@
 | 7. Oliver Wyman Russia. БЕЗ диплома|Чемпионат по решению бизнес-кейса СберМегаМаркета. Внедрение ESG принципов и стандартов. Проиграл. 
 | 8. HSE Case Club & McKinsey Beyond Business. БЕЗ диплома|Чемпионат по решению бизнес-кейса NovaBank. Стратегия становления ТОП-1 банка для самозанятых. Проиграл. 
 | 9. Changellenge >> Cup IT. Аналитика Данных ➕[Анализ](https://github.com/Asterlok/cross_sales_analysis) [Диплом](https://github.com/IvanAnvi/wastepaper/blob/main/7.%20Cup%20IT%202022%20FINAL.pdf)|Чемпионат по решению бизнес-кейса Магнит и P&G инструментами анализа данных: EXCEL, регрессия, Python (Pandas, sklearn). Прошли в финал с 1 места. В финале кейс от Северстали. Модель для оценки рисков от простоя сервисов. Вне призовых мест. Проиграли.
-| 10. Масштабный курс по SQL от Stepik. [Сертификат](https://github.com/IvanAnvi/wastepaper/blob/main/6.%20Cup%20Moscow%202021.pdf)|В курсе большинство шагов — это практические задания на создание SQL-запросов.
+| 10. Масштабный курс по SQL от Stepik. [Сертификат](https://github.com/Asterlok/wastepaper/blob/main/SQL_Stepik.pdf)|В курсе большинство шагов — это практические задания на создание SQL-запросов.
 | Волонтёрская [книжка](https://github.com/IvanAnvi/wastepaper/blob/main/Volunteering..pdf)|Езжу в собачий приют, кормлю и выгуливаю. Не обновляю.
