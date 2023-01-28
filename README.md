@@ -1,6 +1,7 @@
 
 | **Название** | **Описание** |
 | -------------------- | :--------------------- |
+| 12. Виртуальная стажировка Java-разработка в Сбере [Сертификат](https://github.com/INLAE/wastepaper/blob/main/virtualInternSber.pdf)| Чтение данных из .csv справочника городов, загрузка в модель данных и анализ (sort by...,max..., sum..., select, groupby -- *lambda*, *stream*, *comparator*.
 | 11. Cup Moscow 2022 от Changellenge  [Сертификат](https://github.com/INLAE/wastepaper/blob/main/2022CupMoscowTop25.pdf)| TOP 25% худший результат на всех кейс турнирах, видимо решение было слишком 'out of the box', а может не хватило команды из 2 человек.
 | 10. Масштабный курс по SQL от Stepik. [Сертификат](https://github.com/Asterlok/wastepaper/blob/main/SQL_Stepik.pdf)|В курсе большинство шагов — это практические задания на создание SQL-запросов.
 | 9. Changellenge >> Cup IT. Аналитика Данных ➕[Анализ](https://github.com/Asterlok/cross_sales_analysis) [Диплом](https://github.com/IvanAnvi/wastepaper/blob/main/7.%20Cup%20IT%202022%20FINAL.pdf)|Чемпионат по решению бизнес-кейса Магнит и P&G инструментами анализа данных: EXCEL, регрессия, Python (Pandas, sklearn). Прошли в финал с 1 места. В финале кейс от Северстали. Модель для оценки рисков от простоя сервисов. Вне призовых мест. Проиграли.
