@@ -1,6 +1,7 @@
 
 | **Название** | **Описание** |
 | -------------------- | :--------------------- |
+| 13. Виртуальная стажировка Mars [Сертификат](https://github.com/INLAE/wastepaper/blob/main/data_analysis_intern.pd)| Виртуальная стажировка в Mars (занимался Excel анализом данных (VLOOUKUP, Pivot Tables).
 | 12. Виртуальная стажировка Java-разработка в Сбере [Сертификат](https://github.com/INLAE/wastepaper/blob/main/virtualInternSber.pdf)| Чтение данных из .csv справочника городов, загрузка в модель данных и анализ (sort by...,max..., sum..., select, groupby -- *lambda*, *stream*, *comparator*.
 | 11. Cup Moscow 2022 от Changellenge  [Сертификат](https://github.com/INLAE/wastepaper/blob/main/2022CupMoscowTop25.pdf)| TOP 25% худший результат на всех кейс турнирах, видимо решение было слишком 'out of the box', а может не хватило команды из 2 человек.
 | 10. Масштабный курс по SQL от Stepik. [Сертификат](https://github.com/Asterlok/wastepaper/blob/main/SQL_Stepik.pdf)|В курсе большинство шагов — это практические задания на создание SQL-запросов.
