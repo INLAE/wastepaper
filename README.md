@@ -9,6 +9,7 @@
 ## Хакатоны и Чемпионаты
 | **Название** | **Описание** |
 | -------------------- | :--------------------- |
+|2024 Cup Russia 2024 Changellenge [Диплом полуфиналиста](https://github.com/INLAE/wastepaper/blob/main/8.%20Cup%20Russia%202024%20Semi-Final.pdf)| Решили 2 бизнес кейса, предложив решения по повышению вовлечённости в МТС Маркетолог геймифицировав процесс обучения клиентов и снизив их когнитивную нагрузку и решение по повышению вовлеченности молодёжи в лотерейный продукт, решение отмечено самым оригинальным [Диплом Out of the Box](https://github.com/INLAE/wastepaper/blob/main/8.%20Cup%20Russia%202024%20Semi-Final.pdf)
 | 2022 Cup Moscow от Changellenge  [Сертификат](https://github.com/INLAE/wastepaper/blob/main/2022CupMoscowTop25.pdf)| TOP 25% худший результат на всех кейс турнирах, видимо решение было слишком 'out of the box', а может не хватило команды из 2 человек.
 | 2022 Changellenge >> Cup IT. Аналитика Данных ➕[Анализ](https://github.com/Asterlok/cross_sales_analysis) [Диплом](https://github.com/IvanAnvi/wastepaper/blob/main/7.%20Cup%20IT%202022%20FINAL.pdf)|Чемпионат по решению бизнес-кейса Магнит и P&G инструментами анализа данных: EXCEL, регрессия, Python (Pandas, sklearn). Прошли в финал с 1 места. В финале кейс от Северстали. Модель для оценки рисков от простоя сервисов. Вне призовых мест. Проиграли.
 | 2021 Форум в универе по Soft Skills. [Сертификат](https://github.com/IvanAnvi/wastepaper/blob/main/3.%20SoftSkills.jpg)|Поговорили о значении Soft Skills. Защитили проект для универа.
